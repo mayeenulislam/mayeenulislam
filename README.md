@@ -1,11 +1,6 @@
-### Mayeenul Islam
+# Mayeenul Islam
 
-- UX Designer,
-- PHP Developer,
-- WordPressian,
-- Translator (`bn_BD`),
-- 👣 Trekker, and
-- Wikimedian
+UX Designer • PHP Developer • WordPressian • Translator (`bn_BD`) • Trekker • Wikimedian
 
 🖱️ **Résumé: [mayeenulislam.github.io](https://mayeenulislam.github.io)**
 
