@@ -1,7 +1,6 @@
 # Theory of Creativity
 
-UX designer, WordPress Themes & Plugins Developer, WordPress Core Contributor, Speaker, Translator (`bn_BD`), Trekker, Traveler, and Writer.<br>
-Works under the hood at [@nanodesigns](https://github.com/nanodesigns)
+UX designer, WordPress Themes & Plugins Developer, WordPress Core Contributor, Speaker, Translator (`bn_BD`), Trekker, Traveler, and Writer.
 
 🖱️ **CV: [mayeenulislam.github.io](https://mayeenulislam.github.io)**
 
